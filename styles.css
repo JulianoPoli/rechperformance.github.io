@@ -52,6 +52,37 @@ a {
 .topbar:has(+main .hero) {
   border-color:rgba(255,255,255,.03)
 }
+
+.foto5insta{
+  background-image: url(assets/voyage.jpg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.foto1insta{
+  background-image: url(assets/rech.jpg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.foto3insta{
+  background-image: url(assets/corolla.png) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.foto2insta{
+  background-image: url(assets/foto2.jpg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.foto4insta{
+  background-image: url(assets/fotocivic.jpeg) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
 .brand {
   display:block;
   width:136px;
