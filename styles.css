@@ -610,7 +610,7 @@ h2 {
   margin:0
 }
 .gallery {
-  background:#e6e6df;
+  background:#d6d6cf;
   color:#161615
 }
 .gallery .section-index {
@@ -1006,9 +1006,7 @@ footer small {
     padding-left:0
   }
   .engine-sketch {
-    width:71%;
-    right:-5%;
-    bottom:-18px
+    display: none;
   }
   .section-heading>p {
     margin-top:23px;
